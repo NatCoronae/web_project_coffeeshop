@@ -215,7 +215,7 @@
 
 .reservation__title {
   display: flex;
-  flex-direction: center;
+  justify-content: center;
   padding-top: 100px;
   font-family: Inter;
   font-style: normal;
@@ -251,9 +251,8 @@
 
 .form__input {
   display: flex;
-  flex: center;
-  margin: 0 0 32px;
   flex-direction: column;
+  margin: 0 0 32px;
   border-radius: 4px;
   height: 60px;
   width: 100%;
