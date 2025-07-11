@@ -1,0 +1,10 @@
+.span-accent {
+  display: flex;
+  left: 80px;
+  font-family: Noto Serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 58px;
+  line-height: 72px;
+  color: #2f80ed;
+}
